@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on mostly front-end projects.
--  🌱 I’m currently learning more and more about web dev.
+-  🌱 I’m currently learning more and more about web dev and design.
 
 <!--
 **devjoy2018/devjoy2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
