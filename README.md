@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 -  🌱 Learning more and more about web dev and design.
+-  🔭 I’m currently working on web based apps.
 
 <!--
 **devjoy2018/devjoy2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
